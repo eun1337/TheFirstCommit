@@ -1,2 +1,2 @@
-email :
-gitID :
+email : dbdmstj0327@gamil.com
+gitID : eun1337
